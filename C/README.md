@@ -3,6 +3,8 @@
 
 This subrepository contains programs written in C for various data structures and algorithms. Below is a list of programs included in the repository:
 
+<span style="color:orange">**Note :** This subrepository contains programs written for semester 3 practical file.</span>
+
 ### Programs
 #### Array
 - 1_MatrixCalculator.c
@@ -20,12 +22,12 @@ This subrepository contains programs written in C for various data structures an
 #### Binary Search Tree
 - 15_BST.c
 - 16_traversalBST.c
-#### Stack
+#### Stack & Queue
 - 6_stack.c
-#### Queue
 - 8_basicqueue.c
 - 9_circularqueue.c
-#### Other
+
+#### Miscellaneous
 - 7_towerofhanoi.c
 
 # How to Use
