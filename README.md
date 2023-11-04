@@ -1,5 +1,13 @@
-# Data Structures and Algorithms
+```
 
+  ____        _          ____  _                   _                                        _      _    _                  _ _   _                   
+ |  _ \  __ _| |_ __ _  / ___|| |_ _ __ _   _  ___| |_ _   _ _ __ ___ ___    __ _ _ __   __| |    / \  | | __ _  ___  _ __(_| |_| |__  _ __ ___  ___ 
+ | | | |/ _` | __/ _` | \___ \| __| '__| | | |/ __| __| | | | '__/ _ / __|  / _` | '_ \ / _` |   / _ \ | |/ _` |/ _ \| '__| | __| '_ \| '_ ` _ \/ __|
+ | |_| | (_| | || (_| |  ___) | |_| |  | |_| | (__| |_| |_| | | |  __\__ \ | (_| | | | | (_| |  / ___ \| | (_| | (_) | |  | | |_| | | | | | | | \__ \
+ |____/ \__,_|\__\__,_| |____/ \__|_|   \__,_|\___|\__|\__,_|_|  \___|___/  \__,_|_| |_|\__,_| /_/   \_|_|\__, |\___/|_|  |_|\__|_| |_|_| |_| |_|___/
+                                                                                                          |___/                                      
+
+```
 This repository contains implementations of various data structures and algorithms in different programming languages. As of now, it is complete in C and JavaScript, with the possibility of adding more languages in the future.
 
 ## Table of Contents
