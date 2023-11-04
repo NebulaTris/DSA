@@ -1,7 +1,7 @@
 # DSA-in-C :sparkles:
 <img src="https://user-images.githubusercontent.com/94922914/209547639-a3f87344-f43e-48c2-87c8-59b26fb22eaf.png" width="800"/></br>
 
-This repository contains programs written in C for various data structures and algorithms. Below is a list of programs included in the repository:
+This subrepository contains programs written in C for various data structures and algorithms. Below is a list of programs included in the repository:
 
 ### Programs
 #### Array
@@ -31,11 +31,12 @@ This repository contains programs written in C for various data structures and a
 # How to Use
 1. Clone the repository to your local machine using the command:
 ```
-git clone https://github.com/NebulaTris/DSA-in-C.git
+git clone https://github.com/NebulaTris/DSA.git
 ```
 2. Navigate to the directory containing the desired program using the command:
 ```
-cd DSA-in-C
+cd DSA
+cd C
 ```
 3. Compile the program using a C compiler (gcc, for example) using the command:
 ```
