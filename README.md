@@ -14,10 +14,11 @@ This repository contains implementations of various data structures and algorith
 
 1. [C](/C/)
    - [Arrays](/C/Arrays/)
-   - [Linked Lists](/C/LinkedLists/)
-   - [Stacks and Queues](/C/Stacks%20and%20Queues/)
-   - [Sorting Algorithms](/C/Sorting%20Algorithms/)
-   - [Searching Algorithms](/C/Searching%20Algorithms/)
+   - [Binary Search Trees](/C/Binary_Search_Trees/)
+   - [Linked Lists](/C/Linked_Lists/)
+   - [Stacks and Queues](/C/Stack_and_Queue/)
+   - [Sorting Algorithms](/C/Sorting/)
+   - [Miscellaneous](/C/Miscellaneous/)
 
 2. [JavaScript](/JavaScript/)
    - [Arrays](/JavaScript/Arrays/)
